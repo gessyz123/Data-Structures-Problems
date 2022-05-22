@@ -4,7 +4,7 @@ Each video is divided into sestions :<br />
 1- Problem statetement <br />
 2- Base Cases if exist <br />
 3- Solution <br />
-4- Pesodo Code ( detailed code in git hub )<br />
+4- Pesodo Code(detailed code in git hub )<br />
 5- Solution Validation <br />
 6- Complexity <br />
 

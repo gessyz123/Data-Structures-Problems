@@ -17,4 +17,6 @@ Problem 6: https://youtu.be/daCo4EG8vFI <br />
 Problem 7: https://youtu.be/fHdyo3dLMFc <br />
 Problem 8: https://youtu.be/Hj8pU06wWZE <br />
 Problem 9 :https://youtu.be/FM7KBxaC16Y <br />
-Problem 10 :
+Problem 10 :https://youtu.be/Khqt9WTuGDk<br />
+
+Note: I forgot to mention in the last problem that the complexity is o(n log n)
